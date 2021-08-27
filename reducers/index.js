@@ -1,5 +1,5 @@
 import React from 'react'
-import HYDRATE from 'next-redux-wrapper'
+import {HYDRATE} from 'next-redux-wrapper'
 import { combineReducers } from 'redux'
 import post from './post'
 
